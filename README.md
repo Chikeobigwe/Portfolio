@@ -4,34 +4,39 @@ Welcome to my Data Analytics portfolio! This repository showcases my projects in
 
 ## 📂 Projects
 
-### 1️⃣ [Superstore Sales Analysis](./superstore-sales-analysis)
+### 1 [Superstore Sales Analysis](./superstore-sales-analysis)
+- **Tools:** SQL
+- **Objective:** Analyzed superstore sales trasnsactions to derive key business insights and profer recommendations.
+- **Key Insights:** Branch performancve, customer rentention, and revenue analysis.
+- 
+### 2 [Global Superstore Market Analysis](./superstore-sales-analysis)
 - **Tools:** Excel (Power Pivot)
 - **Objective:** Analyzed global superstore sales to derive business insights.
 - **Key Insights:** Sales trends, customer segmentation, and profitability analysis.
 
-### 2️⃣ [Project Management Dashboard](./project-management-dashboard)
-- **Tools:** Power BI
+### 3 [Project Management Dashboard](./project-management-dashboard)
+- **Tools:** Excel 
 - **Objective:** Designed an interactive dashboard for tracking project progress, workload distribution, and task aging.
-- **Key Visuals:** Gantt charts, heatmaps, bar charts, and slicers for interactivity.
+- **Key Visuals:** Line charts, bar charts, and slicers for interactivity.
 
-### 3️⃣ [Banking System Performance Analysis](./banking-performance-analysis)
-- **Tools:** Excel, Power BI
-- **Objective:** Analyzed transaction speed and failure rates for FirstBank's systems.
+### 4 [Banking System Performance Analysis](./banking-performance-analysis)
+- **Tools:** Excel
+- **Objective:** Analyzed transaction speed and failure rates for a Bank's systems.
 - **Key Metrics:** Transactions per second (TPS), response times, and error rates.
 
-### 4️⃣ [Customer & Transaction Behavior Analysis](./customer-transaction-analysis)
-- **Tools:** Excel (Power Pivot)
+### 5 [Customer & Transaction Behavior Analysis](./customer-transaction-analysis)
+- **Tools:** PowerBI
 - **Objective:** Explored relationships between customer attributes and transaction patterns.
 - **Key Insights:** Customer segmentation, spending trends, and retention analysis.
 
-### 5️⃣ [Pixar Film Legacy Dashboard](./pixar-film-dashboard)
+### 6 [Pixar Film Legacy Dashboard](./pixar-film-dashboard)
 - **Tools:** Power BI
 - **Objective:** Visualized the impact and performance of Pixar films over 30 years.
 - **Key Metrics:** Box office trends, IMDb ratings, and audience reception.
 
 ## 🔧 Skills & Tools
 - **Data Analysis:** SQL, Excel, Power Pivot, DAX
-- **Data Visualization:** Power BI, Matplotlib, Seaborn
+- **Data Visualization:** Power BI, Excel
 - **ETL & Data Processing:** Power Query, SQL
 
 ## 📬 Contact
