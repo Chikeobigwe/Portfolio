@@ -29,7 +29,7 @@ Welcome to my Data Analytics portfolio! This repository showcases my projects in
 - **Objective:** Explored relationships between customer attributes and transaction patterns.
 - **Key Insights:** Customer segmentation, spending trends, and retention analysis.
 
-### 6 [Pixar Film Legacy Dashboard](./pixar-film-dashboard)
+### 6 [Pixar Film Legacy ](./pixar-film-dashboard)
 - **Tools:** Power BI
 - **Objective:** Visualized the impact and performance of Pixar films over 30 years.
 - **Key Metrics:** Box office trends, IMDb ratings, and audience reception.
