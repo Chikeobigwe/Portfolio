@@ -7,7 +7,7 @@ Welcome to my Data Analytics portfolio! This repository showcases my projects in
 ### 1 [Superstore Sales Analysis](./superstore-sales-analysis)
 - **Tools:** SQL
 - **Objective:** Analyzed superstore sales trasnsactions to derive key business insights and profer recommendations.
-- **Key Insights:** Branch performancve, customer rentention, and revenue analysis.
+- **Key Insights:** Branch performance, customer rentention, and revenue analysis.
 - 
 ### 2 [Global Superstore Market Analysis](./superstore-sales-analysis)
 - **Tools:** Excel (Power Pivot), PowerBI
